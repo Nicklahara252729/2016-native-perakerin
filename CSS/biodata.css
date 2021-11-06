@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+<style>
+#a {
+	width:960px;
+	height:518px;
+	border-radius:7px;
+	margin-left:4px;
+	margin-top:5px;
+	background-color:#9e3333;
+}
+#c{
+	width:940px;
+	height:500px;
+	padding-top:8px;
+	padding-left:10px;
+}
+#b{
+	width:400px;
+	height:800px;
+}
+#d{
+	width:250px;
+	height:250px;
+	border:solid 5px;
+	color:#b00;
+	margin-top:400px;
+	margin-left:100px;
+}
+</style>
+

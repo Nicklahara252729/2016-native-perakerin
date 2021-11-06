@@ -1,0 +1,399 @@
+* { 
+padding:0; 
+margin:0; 
+} 
+body {
+	background-color: #F0F0F0;
+	background-repeat: no-repeat; background-attachment: fixed;
+	background-size: cover;
+}
+
+#header {
+	height: 110px;
+	width: 1700px;
+	margin:0 auto;
+}
+
+#container {
+	margin:0 auto;
+	width: 1700px;
+	margin-top:260px;
+}
+#main {
+	margin:0 auto;
+	margin-left:120px;
+	width: 1700px;
+	background-color:#fff;
+}
+#menu{
+	width:270px;
+	height:auto;
+	background-color: #fff;
+	float:left;
+	margin-top:0px;
+	margin-left:0px;
+	box-shadow: 0px 0px 0px 0px #808080;
+	
+}
+#txt{
+	border:0px;
+	width:400px;
+	height:40px;
+	box-shadow: 0px 0px 3px 0px #808080;
+}
+#tt{
+	border:0px;
+	width:400px;
+	height:120px;
+	box-shadow: 0px 0px 3px 0px #808080;
+	font-size:20px;
+	font-family:"Lao UI";
+}
+#ic{
+	width:450px;
+	height:300px;
+	float:right;
+	margin-top:10px;
+	margin-right:0px;
+	box-shadow: 0px 0px 0px 0px #808080;
+}
+#iklan{
+	width:450px;
+	height:300px;
+	background-color:#fff;
+	margin-top:0px;
+	margin-right:10px;
+}
+#ik{
+	font-family:"Lao UI";
+	font-size:20px;
+	border-bottom:solid 5px;
+	color:#B00;
+	height:40px;
+}
+#comment{
+	width:450px;
+	height:200px;
+	background-color:#fff;
+	margin-top:45px;
+	margin-right:0px;
+	box-shadow: 0px 0px 0px 0px #808080;
+}
+#ct{
+	font-family:"Lao UI";
+	font-size:23px;
+	border-bottom:solid 5px;
+	border-top:solid 5px;
+	color:#B00;
+	height:35px;
+}
+#sub{
+	background-color:#a61818;
+	color:#FFF;
+	font-family:"Lao UI";
+	font-size:20px;
+	font-weight:600;
+	height:35px;
+	line-height:35px;
+	text-decoration:none;
+	width:260px;
+	margin-left:5px;
+	margin-top:0px;
+}
+#pp{
+	height:10px;
+	width:260px;
+	padding-top:5px;
+}
+#sub a{
+	background-color:#a61818;
+	color:#FFF;
+	font-family:"Lao UI";
+	font-size:22px;
+	font-weight:600;
+	height:40px;
+	text-align:center;
+	line-height:36px;
+	text-decoration:none;
+	margin-left:65px;
+}
+#sb{
+	float:left;
+	width:35px;
+	height:30px;
+	margin-top:5px;
+	margin-left:3px;
+}
+#imc{
+	width:40px;
+	height:40px;
+	float:left;
+	margin-left:148px;
+}
+#icm{
+	width:40px;
+	height:40px;
+	float:left;
+	margin-left:120px;
+}
+#insub2{
+	width:260px;
+	height:27px;
+	border-bottom:solid 5px;
+	color:#B00;
+	margin-left:5px;
+	margin-top:10px;
+}
+#i{
+	color:#b00;
+	margin-left:0px;
+	font-family:"Lao UI";
+	font-size:21px;
+	font-weight:600;
+}
+#pp2{
+	height:10px;
+	width:260px;
+	padding-top:130px;
+	margin-left:5px;
+}
+#ii{
+	color:#b00;
+	margin-left:0px;
+	font-family:"Lao UI";
+	font-size:19px;
+	font-weight:600;
+}
+#insub3{
+	width:260px;
+	height:30px;
+	border-top:solid 5px;
+	border-bottom:solid 5px;
+	color:#B00;
+	margin-left:5px;
+	margin-top:-8px;
+}
+#pp3{
+	height:10px;
+	width:260px;
+	padding-top:170px;
+	margin-left:5px;
+}#iii{
+	color:#b00;
+	margin-left:0px;
+	font-family:"Lao UI";
+	font-size:19px;
+	font-weight:600;
+}
+#insub4{
+	width:260px;
+	height:30px;
+	border-top:solid 5px;
+	border-bottom:solid 5px;
+	color:#B00;
+	margin-left:5px;
+	margin-top:-8px;
+}
+#pp4{
+	height:10px;
+	width:260px;
+	padding-top:170px;
+	margin-left:5px;
+}
+#satu{
+	width:30px;
+	height:30px;
+	float:left;
+	margin-top:-2px;
+	margin-right:80px;
+}
+#dua{
+	width:30px;
+	height:30px;
+	float:left;
+	margin-top:0px;
+	margin-right:55px;
+}
+#tiga{
+	width:30px;
+	height:30px;
+	float:left;
+	margin-top:-1px;
+	margin-right:55px;
+}
+#op{
+	color:#b00;
+	font-family:"Lao UI";
+}
+#no{
+	border-radius:0px;
+	background-color: #818181;
+	color:#fff;
+	border:2px;
+	width:80px;
+	height:40px;
+}
+#no:hover{
+	background-color: #D5D5D5;
+	color:#b00;
+	transition:all 0.3s; 
+}
+#slide{
+	margin-top:-45px;
+}
+img { 
+max-width: 100%; 
+height: auto; 
+} 
+ul,ol { 
+list-style-type: none; 
+} 
+.container { 
+margin:10% auto; 
+position: relative; 
+overflow: hidden; 
+} 
+.container, ul.slide li img{ 
+width:450px;  
+height: 300px; 
+}
+ul.slide { 
+position: absolute; 
+display: block; 
+width:800%;  
+}
+.caption { 
+position: absolute; 
+background-color: rgba(0,0,0,0.5); 
+bottom:0; 
+padding:10px; 
+color:#fff; 
+left: 0; 
+right: 0; 
+}
+ul.slide li { 
+display: inline-block; 
+float: left; 
+-webkit-box-sizing:border-box; 
+-moz-box-sizing:border-box; 
+ox-sizing:border-box; 
+-webkit-transition: -webkit-transform ease-out; 
+-moz-transition: -moz-transform 2000ms; 
+transition: -webkit-transform 2000ms, transform 2000ms; 
+} 
+ul.slide li.slide-1 { 
+left: 0%; 
+} 
+ul.slide li.slide-2 { 
+left: 100%; 
+}
+ul.slide li.slide-3 { 
+left: 200%; 
+} 
+ul.slide li.slide-4 { 
+left: 300%; 
+} 
+ul.slide li.slide-5 { 
+left: 400%; 
+} 
+ul.slide li.slide-6 { 
+left: 500%; 
+} 
+ul.slide li.slide-7 { 
+left: 600%; 
+} 
+ul.slide li.slide-8 { 
+left: 700%; 
+} 
+#nav-1:checked ~ ul.slide li{ 
+-webkit-transform: translateX(0%); 
+-moz-transform: translateX(0%); 
+transform: translateX(0%); 
+} 
+#nav-2:checked ~ ul.slide li{ 
+-webkit-transform: translateX(-100%); 
+-moz-transform: translateX(-100%); 
+transform: translateX(-100%); 
+} 
+#nav-3:checked ~ ul.slide li { 
+-webkit-transform: translateX(-200%); 
+-moz-transform: translateX(-200%); 
+transform: translateX(-200%); 
+} 
+#nav-4:checked ~ ul.slide li { 
+-webkit-transform: translateX(-300%); 
+-moz-transform: translateX(-300%); 
+transform: translateX(-300%); 
+} 
+#nav-5:checked ~ ul.slide li { 
+-webkit-transform: translateX(-400%); 
+-moz-transform: translateX(-400%); 
+transform: translateX(-400%); 
+} 
+#nav-6:checked ~ ul.slide li { 
+-webkit-transform: translateX(-500%); 
+-moz-transform: translateX(-500%); 
+transform: translateX(-500%); 
+} 
+#nav-7:checked ~ ul.slide li { 
+-webkit-transform: translateX(-600%); 
+-moz-transform: translateX(-600%); 
+transform: translateX(-600%); 
+} 
+#nav-8:checked ~ ul.slide li { 
+-webkit-transform: translateX(-700%); 
+-moz-transform: translateX(-700%); 
+transform: translateX(-700%); 
+} 
+.radio-nav { 
+display: none; 
+} 
+.nav-arrow { 
+position: absolute; 
+top:45%; 
+width:50px; 
+height: 50px; 
+} 
+.nav-next { 
+right:10px; 
+} 
+.nav-prev { 
+left:10px; 
+} 
+.nav-arrow label 
+{ 
+-webkit-transition:all 0.3s; 
+-moz-transition:all 0.3s; 
+transition:all 0.3s; 
+background-color: rgba(0,0,0,0.3); 
+color: #fff; 
+border-radius: 50%; 
+display: block; 
+position: absolute; 
+padding:15px 20px; 
+cursor: context-menu; 
+z-index: 1; 
+opacity: 0; 
+font-weight: bold; 
+line-height: 1; 
+}
+.container:hover .nav-arrow label{ 
+background-color: rgba(0,0,0,0.7); 
+}  
+#nav-1:checked ~ .nav-prev label.nav-8, 
+#nav-1:checked ~ .nav-next label.nav-2, 
+#nav-2:checked ~ .nav-prev label.nav-1, 
+#nav-2:checked ~ .nav-next label.nav-3, 
+#nav-3:checked ~ .nav-prev label.nav-2, 
+#nav-3:checked ~ .nav-next label.nav-4,
+#nav-4:checked ~ .nav-prev label.nav-3, 
+#nav-4:checked ~ .nav-next label.nav-5, 
+#nav-5:checked ~ .nav-prev label.nav-4, 
+#nav-5:checked ~ .nav-next label.nav-6,
+#nav-6:checked ~ .nav-prev label.nav-5, 
+#nav-6:checked ~ .nav-next label.nav-7,
+#nav-7:checked ~ .nav-prev label.nav-6, 
+#nav-7:checked ~ .nav-next label.nav-8,
+#nav-8:checked ~ .nav-prev label.nav-7, 
+#nav-8:checked ~ .nav-next label.nav-1
+{ z-index: 2; opacity: 1; }

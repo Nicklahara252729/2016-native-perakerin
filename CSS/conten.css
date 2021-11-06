@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+#conten{
+	margin-left:-184px;
+	height:auto;
+	width:970;
+	margin-top:160px;
+	box-shadow: 0px 0px 0px 0px #808080;
+}
+#dalam{
+	margin: 0 auto;
+	background-color: #fff;
+	width:970px;
+	height:auto;
+	border-left:solid 3px;
+	border-right:solid 3px;
+	border-bottom:solid 3px;
+	border-top:solid 3px;
+	color:#9e3333;
+}
+#hr{
+	margin-left:33px;
+	background-color: #D5D5D5;
+}
